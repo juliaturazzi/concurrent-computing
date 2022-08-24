@@ -1,2 +1,2 @@
-# concurrent computing
-Concurrency labs in c and java (UFRJ - fourth semester).
+# Concurrent computing
+Concurrency assignments in c and java (UFRJ - fourth semester).
